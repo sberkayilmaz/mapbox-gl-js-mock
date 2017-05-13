@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#102fbe",
+        "marker-size": "large",
+        "marker-symbol": "airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7829532623291,
+          40.99499404147988
+        ]
+      }
+    }
+  ]
+}
